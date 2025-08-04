@@ -1,4 +1,4 @@
-# C# Projects – MovementApp, ShapeAreaApp, AnimalSoundApp
+ MovementApp, ShapeAreaApp, AnimalSoundApp
 
 ## Overview
 
