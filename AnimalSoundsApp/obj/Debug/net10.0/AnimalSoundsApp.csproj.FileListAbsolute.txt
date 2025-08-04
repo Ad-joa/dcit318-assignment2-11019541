@@ -1,0 +1,15 @@
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\AnimalSoundsApp\bin\Debug\net10.0\AnimalSoundsApp.exe
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\AnimalSoundsApp\bin\Debug\net10.0\AnimalSoundsApp.deps.json
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\AnimalSoundsApp\bin\Debug\net10.0\AnimalSoundsApp.runtimeconfig.json
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\AnimalSoundsApp\bin\Debug\net10.0\AnimalSoundsApp.dll
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\AnimalSoundsApp\bin\Debug\net10.0\AnimalSoundsApp.pdb
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\AnimalSoundsApp\obj\Debug\net10.0\AnimalSoundsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\AnimalSoundsApp\obj\Debug\net10.0\AnimalSoundsApp.AssemblyInfoInputs.cache
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\AnimalSoundsApp\obj\Debug\net10.0\AnimalSoundsApp.AssemblyInfo.cs
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\AnimalSoundsApp\obj\Debug\net10.0\AnimalSoundsApp.csproj.CoreCompileInputs.cache
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\AnimalSoundsApp\obj\Debug\net10.0\AnimalSoundsApp.sourcelink.json
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\AnimalSoundsApp\obj\Debug\net10.0\AnimalSoundsApp.dll
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\AnimalSoundsApp\obj\Debug\net10.0\refint\AnimalSoundsApp.dll
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\AnimalSoundsApp\obj\Debug\net10.0\AnimalSoundsApp.pdb
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\AnimalSoundsApp\obj\Debug\net10.0\AnimalSoundsApp.genruntimeconfig.cache
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\AnimalSoundsApp\obj\Debug\net10.0\ref\AnimalSoundsApp.dll
