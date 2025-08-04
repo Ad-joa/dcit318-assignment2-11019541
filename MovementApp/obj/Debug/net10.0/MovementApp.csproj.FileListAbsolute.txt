@@ -1,0 +1,15 @@
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\MovementApp\bin\Debug\net10.0\MovementApp.exe
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\MovementApp\bin\Debug\net10.0\MovementApp.deps.json
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\MovementApp\bin\Debug\net10.0\MovementApp.runtimeconfig.json
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\MovementApp\bin\Debug\net10.0\MovementApp.dll
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\MovementApp\bin\Debug\net10.0\MovementApp.pdb
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\MovementApp\obj\Debug\net10.0\MovementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\MovementApp\obj\Debug\net10.0\MovementApp.AssemblyInfoInputs.cache
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\MovementApp\obj\Debug\net10.0\MovementApp.AssemblyInfo.cs
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\MovementApp\obj\Debug\net10.0\MovementApp.csproj.CoreCompileInputs.cache
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\MovementApp\obj\Debug\net10.0\MovementApp.sourcelink.json
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\MovementApp\obj\Debug\net10.0\MovementApp.dll
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\MovementApp\obj\Debug\net10.0\refint\MovementApp.dll
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\MovementApp\obj\Debug\net10.0\MovementApp.pdb
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\MovementApp\obj\Debug\net10.0\MovementApp.genruntimeconfig.cache
+C:\Users\fortu\.vscode\dcit318-assignment2-11019541\MovementApp\obj\Debug\net10.0\ref\MovementApp.dll
